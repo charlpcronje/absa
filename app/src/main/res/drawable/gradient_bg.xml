@@ -11,9 +11,11 @@
 
         </shape>
     </item>
+    <!--
     <item
-        android:width="280sp"
+        android:width="match_parent"
         android:height="280sp"
         android:gravity="center"
-        android:drawable="@drawable/absaCircle" />
+        android:drawable="@drawable/absa_circle" />
+        -->
 </layer-list>
