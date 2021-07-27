@@ -64,6 +64,9 @@ Wind {
 }
 ```
 
+## C++ to Check for Rooted Device
+I created such a `plugin` a while ago that I used in Unreal Ungine, I'm testing it now
+
 ## Retrofit#
 > I used Retrofit as a dependecy for fetching the data from `OpenWeatherMap`
 `Retrofit` is lightweight, open source and easy to use
