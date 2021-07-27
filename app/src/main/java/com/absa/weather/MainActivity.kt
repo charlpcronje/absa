@@ -100,7 +100,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onFailure(call: Call<WeatherData?>?, t: Throwable?) {
-                TODO("Not yet implemented")
+                Log.d("Retrofit", "API Call Failed")
             }
         })
     }
