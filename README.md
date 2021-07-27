@@ -2,7 +2,7 @@
 ABSA Weather App
 
 ## Adroid Version 6.0 Marshmalow
-I'm choosing this widely supported by 84.9% of devices and still compatable with the UI functionality I wwnt to use
+I'm choosing this widely supported by 84.9% of devices and still compatable with the UI functionality I want to use
 
 ## API `OpenWeatherMap` for Data
 I chose this one because I had limited time and it was at the top, I presume there was no wrong answer there
