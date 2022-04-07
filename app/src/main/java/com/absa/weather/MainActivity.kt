@@ -27,7 +27,7 @@ const val BASE_URL = "https://api.openweathermap.org/data/2.5/"
 class MainActivity : AppCompatActivity() {
     private var locationManager : LocationManager? = null
     val city: String = "pretoria,za"
-    val apiKey: String = "647797f25c437eb5539d4e12e182e4bc"
+    val apiKey: String = ""
     val context: Context = this
 
     override fun onCreate(savedInstanceState: Bundle?) {
